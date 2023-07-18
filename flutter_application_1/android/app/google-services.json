@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "1095547709249",
+    "project_id": "fir-bashaar-app",
+    "storage_bucket": "fir-bashaar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095547709249:android:c85c3447cf034db59ea3c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZpCezsImNWFXeVNG2JtOuJrhdymSVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095547709249-eu2352kmcdmfrcrprevah9ts7pa6a1gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebasebashaarApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095547709249:android:71c29886be67e87d9ea3c0",
+        "android_client_info": {
+          "package_name": "com.example.hopyby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZpCezsImNWFXeVNG2JtOuJrhdymSVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095547709249-eu2352kmcdmfrcrprevah9ts7pa6a1gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebasebashaarApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095547709249:android:85930019cb98843b9ea3c0",
+        "android_client_info": {
+          "package_name": "com.example.hopyby.hopyby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZpCezsImNWFXeVNG2JtOuJrhdymSVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095547709249-eu2352kmcdmfrcrprevah9ts7pa6a1gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebasebashaarApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095547709249:android:7380646d79236fb19ea3c0",
+        "android_client_info": {
+          "package_name": "com.example.sada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZpCezsImNWFXeVNG2JtOuJrhdymSVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095547709249-gq2e4g8q04bse7upks991gggh4lle2qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095547709249-eu2352kmcdmfrcrprevah9ts7pa6a1gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebasebashaarApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
